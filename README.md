@@ -6,8 +6,8 @@
 <p><b>JavaScript Libraries</b>: Leverage powerful JavaScript libraries like <b>Leaflet.js</b> and 
 <b>OpenLayers</b> for open-source and flexible mapping solutions.</p>
 
-<p><b>Commercial APIs</b>: Explore platforms like <b>Google Maps Platform</b> or <b>Mapbox</b> for features such 
-as mapping, routing, and location-based services.</p>
+<p><b>Commercial APIs</b>: Explore platforms like <b>Google Maps Platform</b> or <b>Mapbox</b> for 
+features such as mapping, routing, and location-based services.</p>
 
 <p><b>Specialized GIS APIs</b>: Integrate with platforms like ArcGIS for advanced geospatial 
 analysis and applications.</p>
@@ -42,7 +42,7 @@ Delivery Networks (CDNs) to reduce load times.</p>
 <p><b>Data Filtering and Aggregation</b>: Employ filtering techniques and client-side aggregation 
 to optimize data rendering and improve efficiency.</p>
 
-<p><b>Clear Communication</b.: Ensure your map has a clear purpose, concise titles, clear layer 
+<p><b>Clear Communication</b>: Ensure your map has a clear purpose, concise titles, clear layer 
 names, and simplified pop-ups to effectively convey information to your audience.</p>
 
 <p>By focusing on these areas and utilizing the various tools and practices available, you 
@@ -55,11 +55,11 @@ maps, and strive for clarity, consistency, and simplicity in your design choices
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Examples of web applications using <b>Leaflet</b> and <b>OpenLayers</b></p>
 
-<p>Both <b>Leaflet</b> and <b>OpenLayers</b> are powerful open-source JavaScript libraries for building 
-web mapping applications, according to Geoapify. Here are examples of how they're used:</p>
+<p>Both <b>Leaflet</b> and <b>OpenLayers</b> are powerful open-source JavaScript libraries for 
+building web mapping applications, according to Geoapify. Here are examples of how they're used:</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Leaflet.js</h4>
+<h2>Leaflet.js</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>North Pacific Sea Bird Data Portal</b>: A web app centered on using Leaflet.js.</p>
 
@@ -77,7 +77,7 @@ according to Hacker News.</p>
 <p><b>Old School RuneScape world map</b>: Uses Leaflet.js.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>OpenLayers</h4>
+<h2>OpenLayers</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>OpenStreetMap.org</b>: Uses OpenLayers as part of its web mapping solution.</p>
 
@@ -103,14 +103,14 @@ requirements of your project, as noted by KokaTic.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Top 10 JavaScript Libraries for Creating Interactive Maps</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>1. Leaflet</h4>
+<h3>1. Leaflet</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Leaflet</b> is an easy open-source library for developing interactive maps. Developers picks 
 Leaflet over another JavaScript libraries to add maps to mobile applications. Lots of big 
 companies like Flickr, Facebook, Etsy, and GitHub use Leaflet.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h5>Key Features:</h5>
+<h4>Key Features:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Mobile-friendly</b>: Leaflet works awesome on phones and tablets. It is simple to zoom in and 
 out and move the map around with your fingers. This implies you can build websites or apps 
@@ -126,13 +126,13 @@ like popups, tooltips, and custom event handling. You can show extra data when c
 tap on markers or regions of the map, improving the client involvement.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>2. HERE JavaScript API</h4>
+<h3>2. HERE JavaScript API</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>HERE JavaScript API's</b> give developers with adaptable tools for integrating interactive 
 maps and location-based services into a huge range of webs and portable applications.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h5>Key Features:</h5>
+<h4>Key Features:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Geocoding</b>: With the HERE JavaScript API, you can effectively change addresses into map 
 coordinates (forward geocoding) or map coordinates into addresses (reverse geocoding). 
@@ -149,13 +149,13 @@ the streets are, if there are any accidents or closures. This helps clients choo
 best route and maintain a strategic distance from getting stuck in traffic jams or delays.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>3. Google Maps JavaScript API</h4>
+<h3>3. Google Maps JavaScript API</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Google Maps</b> is the most well known mapping platform in the world. With Google Maps, you 
 can easily find out how long it will take to get to your destination.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h5>Key Features:</h5>
+<h4>Key Features:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Integration with Google Services</b>: The API consistently coordinating with other Google 
 services such as Places API, Directions API, and Street View API, permitting designers 
@@ -172,14 +172,14 @@ it possible to zoom in and out easily without the map getting blurry or pixelate
 giving you a pleasant experience whereas exploring.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>4. D3.js</h4>
+<h3>4. D3.js</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>D3.js (Data-Driven Documents)</b> moreover presents effective tools for making interactive 
 maps. Its data-binding strategy and SVG rendering make it highly adaptable for building 
 custom map visualizations, particularly for data-driven applications.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h5>Key Features:</h5>
+<h4>Key Features:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Scalability</b>: <b>D3.js</b> can handle huge amounts of information and make all sorts of maps, 
 from basic ones like charts to really detailed ones showing geography.</p>
@@ -195,7 +195,7 @@ specialists understand and use D3.js better. So, if you are stuck or need to lea
 something modern, there is likely somebody out there who can help.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>5. OpenLayers</h4>
+<h3>5. OpenLayers</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>OpenLayers</b> is an open-source project with a dynamic community of engineers contributing 
 to its advancement and support. It supports diverse information groups for geographic 
@@ -204,13 +204,13 @@ online services like WMS and WFS. These services give more geographic informatio
 engineers can include to their maps.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>6. jQuery Mapael</h4>
+<h3>6. jQuery Mapael</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>jQuery Mapael</b> permits designers to make vector-based maps, which means that map components 
 (such as countries, regions, or cities) are represented as adaptable vector graphics (SVG).</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h5>Key Features:</h5>
+<h4>Key Features:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>SEO Friendly</b>: This stands out from most mapping libraries. <b>jQuery Mapael</b> guarantees your 
 map content is available to search engines even with JavaScript disabled. It gives an 
@@ -223,13 +223,13 @@ adjust consistently to diverse screen sizes and devices.</p>
 behaviors in response to client interactions, such as clicks, hovers, or zooms.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>7. CesiumJS</h4>
+<h3>7. CesiumJS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>CesiumJS</b> permits engineers to make 3D maps. It is a best choice for projects that require 
 point by point 3D representation.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h5>Key Features:</h5>
+<h4>Key Features:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Support for Time-Dynamic Information: CesiumJS empowers designers to visualize time-dynamic 
 information, such as historical or real-time events, by animating changes over time. This 
@@ -245,14 +245,14 @@ gadgets, empowering engineers to make immersive VR experiences with 3D maps and 
 This feature is valuable for applications like virtual tourism, and gaming.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>8. ArcGIS API for JavaScript</h4>
+<h3>8. ArcGIS API for JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The <b>ArcGIS API</b> for JavaScript is designed for building GIS applications with Esri's 
 ArcGIS platform. Esri’s ArcGIS API for JavaScript helps to make interactive 2D and 3D 
 maps utilizing the effective ArcGIS platform features.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h5>Key Features:</h5>
+<h4>Key Features:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Advanced Spatial Analysis</b>: It offers effective spatial analysis capabilities such as 
 buffering, vicinity investigation, spatial querying, and overlay operations. These 
@@ -267,7 +267,7 @@ information is protected.</p>
 platforms, including desktops, tablets, and portable devices.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>9. Tangram</h4>
+<h3>9. Tangram</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Tangram</b> is a powerful and versatile JavaScript library for creating interactive maps with 
 highly customizable styles and dynamic features. Its combination of performance, 
@@ -275,7 +275,7 @@ flexibility, and ease of use makes it a popular choice among developers for buil
 engaging and informative mapping applications.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h5>Key Features:</h5>
+<h4>Key Features:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Custom Shaders</b>: It supports custom shaders, enabling developers to apply advanced visual 
 effects and create unique map styles that go beyond traditional cartography. This 
@@ -286,7 +286,7 @@ smooth interactions even with complex map designs and large datasets. This makes
 suitable for demanding applications where performance is crucial.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>10. DataMaps</h4>
+<h3>10. DataMaps</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>DataMaps</b> is a truly flexible JavaScript mapping tool. It is incredible since it can be 
 used for all sorts of projects, whether they are huge or little. With DataMaps, you get 
@@ -295,7 +295,7 @@ appeared from distinctive angles. Also, you can test your maps in different web
 browsers and with different plugins to make sure everything works perfectly.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h5>Key Features:</h5>
+<h4>Key Features:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Interactivity</b>: DataMaps support interactive features such as tooltips, tap events, and 
 hover effects, empowering clients to connected with map components and explore 
@@ -321,6 +321,7 @@ and crisis response.</p>
 <p><b>Mobile Availability</b>: With the developing use of portable gadgets, interactive maps can be 
 perfected for portable accessibility offering clients with access to location-based 
 services on smartphones and tablets.</p>
+
 <p><b>Save time</b>: Making interactive maps from scratch is truly difficult. Mapping devices allow 
 you ready-made functions, so you can concentrate on making your app work, without stressing 
 about tricky mapping stuff.</p>
