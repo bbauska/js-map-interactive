@@ -103,7 +103,7 @@ requirements of your project, as noted by KokaTic.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Top 10 JavaScript Libraries for Creating Interactive Maps</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>1. Leaflet</h3>
+<h3>1. <a href="https://curatepartners.com/tech-skills-tools-platforms/leaflet-the-open-source-javascript-library-for-interactive-and-customizable-web-maps/#:~:text=What%20is%20Leaflet?,base%20layer%20for%20their%20project.">Leaflet</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Leaflet</b> is an easy open-source library for developing interactive maps. Developers picks 
 Leaflet over another JavaScript libraries to add maps to mobile applications. Lots of big 
@@ -126,7 +126,8 @@ like popups, tooltips, and custom event handling. You can show extra data when c
 tap on markers or regions of the map, improving the client involvement.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>2. HERE JavaScript API</h3>
+<h3>2. <a href="https://www.here.com/docs/bundle/vector-tile-api-developer-guide/page/topics/coverage-info.html">
+HERE JavaScript API</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>HERE JavaScript API's</b> give developers with adaptable tools for integrating interactive 
 maps and location-based services into a huge range of webs and portable applications.</p>
@@ -149,7 +150,8 @@ the streets are, if there are any accidents or closures. This helps clients choo
 best route and maintain a strategic distance from getting stuck in traffic jams or delays.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>3. Google Maps JavaScript API</h3>
+<h3>3. <a href="https://developers.google.com/maps/documentation/javascript/overview">
+Google Maps JavaScript API</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Google Maps</b> is the most well known mapping platform in the world. With Google Maps, you 
 can easily find out how long it will take to get to your destination.</p>
@@ -172,7 +174,7 @@ it possible to zoom in and out easily without the map getting blurry or pixelate
 giving you a pleasant experience whereas exploring.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>4. D3.js</h3>
+<h3>4. <a href="https://d3js.org/what-is-d3">D3.js</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>D3.js (Data-Driven Documents)</b> moreover presents effective tools for making interactive 
 maps. Its data-binding strategy and SVG rendering make it highly adaptable for building 
@@ -195,7 +197,7 @@ specialists understand and use D3.js better. So, if you are stuck or need to lea
 something modern, there is likely somebody out there who can help.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>5. OpenLayers</h3>
+<h3>5. <a href="https://openlayers.org/">OpenLayers</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>OpenLayers</b> is an open-source project with a dynamic community of engineers contributing 
 to its advancement and support. It supports diverse information groups for geographic 
@@ -204,7 +206,8 @@ online services like WMS and WFS. These services give more geographic informatio
 engineers can include to their maps.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>6. jQuery Mapael</h3>
+<h3>6. <a href="https://www.vincentbroute.fr/mapael/#:~:text=jQuery%20Mapael%20is%20a%20jQuery,neveldo/mapael%2Dmaps'.">
+jQuery Mapael</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>jQuery Mapael</b> permits designers to make vector-based maps, which means that map components 
 (such as countries, regions, or cities) are represented as adaptable vector graphics (SVG).</p>
@@ -223,7 +226,7 @@ adjust consistently to diverse screen sizes and devices.</p>
 behaviors in response to client interactions, such as clicks, hovers, or zooms.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>7. CesiumJS</h3>
+<h3>7. <a href="https://cesium.com/platform/cesiumjs/">CesiumJS</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>CesiumJS</b> permits engineers to make 3D maps. It is a best choice for projects that require 
 point by point 3D representation.</p>
@@ -245,7 +248,7 @@ gadgets, empowering engineers to make immersive VR experiences with 3D maps and 
 This feature is valuable for applications like virtual tourism, and gaming.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>8. ArcGIS API for JavaScript</h3>
+<h3>8. <a href="https://developers.arcgis.com/javascript/latest/">ArcGIS API for JavaScript</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The <b>ArcGIS API</b> for JavaScript is designed for building GIS applications with Esri's 
 ArcGIS platform. Esri’s ArcGIS API for JavaScript helps to make interactive 2D and 3D 
@@ -267,7 +270,7 @@ information is protected.</p>
 platforms, including desktops, tablets, and portable devices.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>9. Tangram</h3>
+<h3>9. <a href="https://github.com/tangrams/tangram">Tangram</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Tangram</b> is a powerful and versatile JavaScript library for creating interactive maps with 
 highly customizable styles and dynamic features. Its combination of performance, 
@@ -286,7 +289,7 @@ smooth interactions even with complex map designs and large datasets. This makes
 suitable for demanding applications where performance is crucial.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>10. DataMaps</h3>
+<h3>10. <a href="https://datamaps.github.io/">DataMaps</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>DataMaps</b> is a truly flexible JavaScript mapping tool. It is incredible since it can be 
 used for all sorts of projects, whether they are huge or little. With DataMaps, you get 
